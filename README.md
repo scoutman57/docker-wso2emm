@@ -14,12 +14,12 @@ $ docker pull scoutman57/wso2emm
 ## Building the image from repository
 1. clone the repository.
 2. cd into the repository.
-3. ```docker build -t scoutman57/docker-wso2emm .```
+3. ```docker build -t scoutman57/wso2emm .```
 
 ## Usage
 
 ```sh
-$ docker run --name wso2emm -p 9443:9443 -p 9763:9763 -d scoutman57/docker-wso2emm
+$ docker run --name wso2emm -p 9443:9443 -p 9763:9763 -d scoutman57/wso2emm
 ```
 
 Then you can access EMM Admin Console in the following URL
