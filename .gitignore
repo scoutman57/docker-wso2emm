@@ -1,0 +1,10 @@
+### Mac
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+### Intellij
+.idea/
+*.iml
+*.iws
