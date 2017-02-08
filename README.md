@@ -8,7 +8,7 @@ WSO2 EMM Enterprise Mobile Management Docker image
 ## Installation from Docker Hub
 
 ```sh
-$ docker pull scoutman57/docker-wso2emm
+$ docker pull scoutman57/wso2emm
 ```
 
 ## Building the image from repository
