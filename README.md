@@ -1,6 +1,6 @@
 # Docker WSO2EMM
 
-[![Go to Docker Hub](https://img.shields.io/badge/Docker%20Hub-%E2%86%92-blue.svg)](https://hub.docker.com/r/scoutman57/docker-wso2emm/)
+[![Go to Docker Hub](https://img.shields.io/badge/Docker%20Hub-%E2%86%92-blue.svg)](https://hub.docker.com/r/w2pc/docker-wso2emm/)
 
 WSO2 EMM Enterprise Mobile Management Docker image
 (http://wso2.com/products/enterprise-mobility-manager)
@@ -27,6 +27,9 @@ Then you can access EMM Admin Console in the following URL
 ```sh
 open https://localhost:9443/emm
 ```
+The default login is:
+- Username: admin
+- Password: admin
 
 ## Configure your server
 
